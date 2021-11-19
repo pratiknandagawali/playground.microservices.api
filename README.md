@@ -1,4 +1,8 @@
-# playground.microservices.api
+# Playground.microservices.api notes
+
+#### This API is created as a sample template that be used for building a microservice. The template is empowered with modularity, clean code, scalable design patterns like MediatR using CQRS, Pollycircuit for making the APIs more resilent.
+#### Commited with the initial ToDo repository for unleasing the power of Object relational Mapping(ORM). 
+#### Powered with swagger as an Open API documentation.
 
 ## Microservice Architecture
 
