@@ -4,6 +4,13 @@
 #### Commited with the initial ToDo repository for unleasing the power of Object relational Mapping(ORM). 
 #### Powered with swagger as an Open API documentation.
 
+## More to come..
+#### Implementing the Authn and Authz for the identity.
+#### Building an abtract layer using React or Angular frameworks.
+#### Deploying the playground API to cloud.
+#### Interaction of playground with other services like notification etc.
+#### Managing application secrets and configurations.
+
 ## Microservice Architecture
 
 ### A microservice architecture – a variant of the service-oriented architecture (SOA) structural style – arranges an application as a collection of loosely-coupled services. In a microservices architecture, services are fine-grained and the protocols are lightweight.
@@ -21,7 +28,4 @@
 #### https://docs.microsoft.com/en-us/dotnet/architecture/microservices/microservice-ddd-cqrs-patterns/microservice-application-layer-implementation-web-api
 #### https://docs.microsoft.com/en-us/azure/architecture/patterns/
 
-## More to come..
-#### Implementing the Authn and Authz for the identity.
-#### Building a abtract layer using React or Angular frameworks.
-#### Deploying the playground API to cloud.
+
