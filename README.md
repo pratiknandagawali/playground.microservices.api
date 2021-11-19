@@ -20,3 +20,8 @@
 ## Learn more from,
 #### https://docs.microsoft.com/en-us/dotnet/architecture/microservices/microservice-ddd-cqrs-patterns/microservice-application-layer-implementation-web-api
 #### https://docs.microsoft.com/en-us/azure/architecture/patterns/
+
+## More to come..
+#### Implementing the Authn and Authz for the identity.
+#### Building a abtract layer using React or Angular frameworks.
+#### Deploying the playground API to cloud.
