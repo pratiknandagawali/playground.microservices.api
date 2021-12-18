@@ -10,6 +10,7 @@
     using MediatR;
     using System.Threading;
     using System.Threading.Tasks;
+
     public class UpdateTodoCommandHandler : IRequestHandler<UpdateTodoItemCommand, TodoResponse>
     {
         private readonly ITodoRepository todoRepository;
